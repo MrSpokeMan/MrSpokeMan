@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @MrSpokeMan
-- 👀 I’m interested in music, I'm playing in band.
+- 👀 I’m interested in music, signal processing and starting with ML
 - 🌱 I’m currently learning Automatic IT in University of Science and Technology in Wroclaw
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me filip.mirski@gmail.com
+
+<!-- - 💞️ I’m looking to collaborate on ... -->
 
 <!---
 MrSpokeMan/MrSpokeMan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
